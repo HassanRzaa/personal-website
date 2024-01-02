@@ -436,6 +436,7 @@ nav.scrollUp {
 @media (max-width: 768px) {
     .home {
         padding: 25rem 0;
+        clip-path: circle(99.8% at 84% 0);
     }
 
     .home-content {
